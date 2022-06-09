@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GestionDesClimats</string>
+    <string name="nameActivity">Climat Application</string>
+    <string name="ville">Ville :</string>
+    <string name="pays">Pays :</string>
+    <string name="temp">Temperature :</string>
+    <string name="prc">Pourcentage de nuages :</string>
+    <string name="btn1">Effacer :</string>
+    <string name="btn2">Enregistrer :</string>
 </resources>

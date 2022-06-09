@@ -57,4 +57,12 @@ public class Climat {
     public void setPourcentageNuages(int pourcentageNuages) {
         PourcentageNuages = pourcentageNuages;
     }
+
+    public Climat(String nomVille, String pays, int temperature, int pourcentageNuages) {
+        NomVille = nomVille;
+        Pays = pays;
+        Temperature = temperature;
+        PourcentageNuages = pourcentageNuages;
+    }
+
 }
